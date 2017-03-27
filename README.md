@@ -6,7 +6,7 @@
 
 ### 本地运行
 
-首先确认本机已经安装 [Android] (http://developer.android.com/index.html)运行环境和 Andriod Studio 开发环境 ，并且安装git，然后执行下列指令：
+首先确认本机已经安装 [Android](http://developer.android.com/index.html) 运行环境和 Andriod Studio 开发环境 ，并且安装git，然后执行下列指令：
 ------------------------------------
 
 ```
