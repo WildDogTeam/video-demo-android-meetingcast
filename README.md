@@ -1,5 +1,5 @@
 # video-demo-android-meetingcast
-使用野狗video sdk建立会议直播的示例
+使用野狗video sdk进行会议直播的示例
 
 开启直播后会获得两种直播url：rtmp和hls
 在客户端进行rtmp直播流的展示，使用的播放类库vitamio（本代码库只能用于个人开发，如果需要商用，请切换成付费版或者其他播放库）
