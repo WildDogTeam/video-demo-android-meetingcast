@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">会议直播</string>
+
+    <string name="prompt_email">电子邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登 录</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Email地址不正确</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+    <string name="title_activity_conversation">ConversationActivity</string>
+    <string name="dummy_button">取消邀请</string>
+    <string name="btn_switch_camera">切换摄像头</string>
+    <string name="btn_switch_speaker">切换扬声器</string>
+    <string name="btn_invite">邀请加入</string>
+    <string name="btn_publish">发布流</string>
+    <string name="btn_unpublish">取消发布</string>
+    <string name="btn_subscrib">订阅流</string>
+    <string name="btn_unsubcrib">取消订阅</string>
+    <!--<string name="dummy_button">Dummy Button</string>-->
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_play_stream">PlayStreamActivity</string>
+    <string name="title_activity_play_hlsstream">PlayHLSStreamActivity</string>
+
+</resources>
